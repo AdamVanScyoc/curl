@@ -864,11 +864,11 @@ CURLcode Curl_is_connected(struct Curl_easy *data,
 
   *connected = FALSE; /* a very negative world view is best */
 
-  if(conn->bits.tcpconnect[sockindex]) {
+  /*if(conn->bits.tcpconnect[sockindex]) {*/
     /* we are connected already! */
     *connected = TRUE;
     return CURLE_OK;
-  }
+  /*}*/
 
   now = Curl_now();
 
@@ -1299,6 +1299,7 @@ static CURLcode singleipconnect(struct Curl_easy *data,
 #endif
   }
   else {
+    sockfd = 0;
     *sockp = sockfd;
     return CURLE_OK;
   }
@@ -1331,8 +1332,10 @@ static CURLcode singleipconnect(struct Curl_easy *data,
     }
   }
 
-  if(!result)
+  if(!result) {
+    sockfd = 0;
     *sockp = sockfd;
+  }
 
   return result;
 }
