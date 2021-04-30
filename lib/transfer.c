@@ -1878,7 +1878,7 @@ Curl_setup_transfer(
 
     /*XXX*/
     conn->sock[sockindex] = 0;
-    conn->sock[writesockindex] = 0;
+    /*conn->sock[writesockindex] = 0;*/
     /*XXX*/
   if(conn->bits.multiplex || conn->httpversion == 20 || httpsending) {
     /* when multiplexing, the read/write sockets need to be the same! */
