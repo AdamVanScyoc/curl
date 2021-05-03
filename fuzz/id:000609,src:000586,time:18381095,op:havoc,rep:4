@@ -1,0 +1,11 @@
+HTTP/3.1 401 UnauthorizeMT
+Con4:07 GMT
+ecp-alive
+Cache-Co‡trol: private
+WWW-Authenticate:,Bam/cdn-cecp-alive
+Cache-Co‡trol: private
+WWW-Authenticate:,Bam/cdn-csic realm="a17:03:04
+Cache-Control: mate
+WWW-Authenticate:,BaFake Realm"
+Acciresontrol: max-age=3156000
+

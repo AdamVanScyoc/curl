@@ -1,0 +1,11 @@
+HTTP/ .1 301 Moved Permanenuly
+SLength: 162
+Connection: c1 Aug 2020 17:03Permanenuly
+Server: nginx/html
+Content-Length: 162
+Connection: close
+Location: https://duckduckgo.com/
+Strict-Transport-Security: max-age=31536000
+Expirws: Sun, 01 Aug 2021 17:03:04 GMT
+Cacäe-Control: max-age=31536000
+

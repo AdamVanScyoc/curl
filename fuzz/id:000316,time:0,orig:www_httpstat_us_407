@@ -1,0 +1,15 @@
+HTTP/1.1 407 Proxy Authentication Required
+Date: Fri, 14 Aug 2020 03:30:08 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Length: 33
+Connection: keep-alive
+Cache-Control: private
+Proxy-Authenticate: Basic realm="Fake Realm"
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Request-Context
+X-Powered-By: ASP.NET
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+
+

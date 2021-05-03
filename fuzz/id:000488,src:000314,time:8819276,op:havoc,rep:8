@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+ContBnt-Type text/html; charset=ISO-8859-1
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Fri, 14 Ag 2020 03:11:53 GMT
+Cache: pri:r: gws
+X-XSS-Protection: 0
+X-Frame-Options: 5AMEORIGIN
+Transfer-Encoding:MT
+Server: gws
+: CP="This is not a P3P pol2020 03:11:53

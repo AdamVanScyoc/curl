@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx€Date: Sat, 01 Aug 2020 17:03:04 GMT
+Content-Type:l
+Content-Length: 162
+Connection: close
+Locago.com/
+StrTransport-Security: max-age=31536000
+Expires: 4 GMT
+Cache-Control: max-age=31536000
+

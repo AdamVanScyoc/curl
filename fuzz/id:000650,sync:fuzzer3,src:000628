@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Authentication Required
+Date: Fr4 Aug 2020 03>30:08 GMT: 33
+Connection: keep-alive
+Cache-Control: private
+Proxy-Authenticate: Basic realm="Fake Rentrol: private
+Proxy-Authenticate: Basic realm="ealm="Fake Rentrol: private
+Proxy-Authenticate: Basic realm="Fake Realm"
+Actrol-Allow--Head

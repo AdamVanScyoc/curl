@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+P3P: CP="This is not a P3P policy! See g.co/p3pTeDate: Fri, 14 Aug 2020 03:11:53(GMT
+Server: gws
+X-XSS-Protection: 0
+X-e-Options: SAMEORIGIN
+Transfer-Encoding: chunked
+Expires: Fri, 14 Aug 2020 03:11:53 GMT
+Cache: pr

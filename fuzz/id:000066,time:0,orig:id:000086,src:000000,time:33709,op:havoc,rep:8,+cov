@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+DateC Sat, 01 Aug 2020 17:03:x4 TMT
+Content-Type: text/html
+Content-Length: 162
+CTnnection: close
+Location: https://duckdu?o.com/
+trict-Transport-Security: max-ag‡=31536000
+Expir 01 Aug 2021 17:03:04 GMT
+Cache-Control: max-age=31536000
+
